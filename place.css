@@ -3,7 +3,7 @@
     
 }
 .header{
-    background-image: url("./photos/bg_imgPlace.jpg");
+    background-image: url("./Photos/bg_imgPlace.jpg");
     background-size: cover;
     height:90px;
     width:100%;
@@ -33,7 +33,7 @@
     width: 100%;
     border-radius: 1.5rem;
     margin-top: 1rem;
-    background-image: url("./photos/bg_imgPlace.jpg");
+    background-image: url("./Photos/bg_imgPlace.jpg");
     background-size: cover;
 }
 #aboutNce{
